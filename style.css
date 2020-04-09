@@ -1,0 +1,99 @@
+ body {
+    background-color: #062863;
+    padding:48px 0px;
+
+    
+}
+#card {background-color:#ffffff;
+    padding: 32px 32px 40px;
+    border-radius:20px;
+    width: 30%;
+    flex-direction: column;
+    display: flex;
+}
+
+
+h1{
+    color:#083e9e;
+     font-size:20px ;
+     font-weight: 700;
+     font-family: sans-serif;
+     text-align: center;
+}
+
+.flex-1 {
+        color: #4a5568;
+        font-size: 14px;
+        text-align: center;
+        font-family:sans-serif; 
+}
+header{
+    margin: 0px opx 24px;
+}
+.form{
+    flex-direction:column;
+    display:flex;
+    margin:32px 0px 0px;
+}
+
+main {
+       display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: min-content;
+    }
+       
+ .piggy-input {
+     color: #1a202c;
+     width:  95%;
+     background-color: #edf2f7;
+     padding: 16px 8px 16px 12px;
+     border: none;
+     border-radius: 5px;
+ }
+     
+     .text-1{
+         color: #4a5568;
+         font-size: 12px;
+         font-weight: 700;
+         margin: 0px 0px 4px;
+         line-height:2;
+         font-family: sans-serif;
+
+     }
+.text-2{
+    padding: 20px 40px 16px;
+    background-color: #083e9e;
+    font-family:sans-serif ;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+    border-top-right-radius: 10px 10px;
+    border-top-left-radius: 10px 10px;
+    border: none;
+    border-bottom-right-radius:10px 10px ;
+}
+   .host{ 
+       text-align: center;
+       font-size: 12px;
+       padding: 4px 12px;
+       margin: 32px 0px 0px;
+       font-family: sans-serif;
+       color:#ffffff;
+   }
+   .image{
+       margin: 0px 0px 48px;
+       display: block;
+       text-align: center;
+   }
+   .piggy-select{
+       width: 100%;
+       color: #1a202c;
+       background-color: #edf2f7;
+       padding: 16px 8px 16px 12px;
+       border: none;
+       border-radius: 5px;
+       border-top-right-radius: 10px 10px; 
+    
+   }
